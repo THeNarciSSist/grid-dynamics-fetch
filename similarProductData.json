@@ -1,0 +1,70 @@
+{
+  "similarProduct": [
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem1.jpeg",
+      "alt": "similar product alt",
+      "price": 999
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem2.jpeg",
+      "alt": "similar product alt",
+      "price": 231
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem3.jpeg",
+      "alt": "similar product alt",
+      "price": 3333
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+
+      "alt": "similar product alt",
+      "price": 420
+    },
+    {
+      "src": "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/bedroomItem4.jpeg",
+      "alt": "similar product alt",
+      "price": 420
+    }
+  ]
+}

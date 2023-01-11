@@ -1,0 +1,144 @@
+{
+  "productItems": [
+    {
+      "title": "Veggie Wax Candle Table",
+      "titleUkr": "Свічка з бджолиного воску",
+      "reviews": 44,
+      "price": 5000,
+      "discount": 350,
+      "inStock": true,
+      "rate": 4,
+      "sizes": [20, 40],
+      "videoLink": "https://www.youtube.com",
+      "products": [
+        {
+          "price": 2429,
+          "discount": 350,
+          "color": "#C84A1E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png",
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png"
+          ],
+          "alt": "brown sofa",
+          "label": "sale"
+        },
+        {
+          "price": 2529,
+          "discount": 350,
+          "color": "#FFE83E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage2.png"
+          ],
+          "alt": "yellow sofa",
+          "label": "new"
+        }
+      ],
+      "similar": [2, 3],
+      "id": 1
+    },
+    {
+      "title": "Veggie Wax Candle Table",
+      "titleUkr": "Свічка з бджолиного воску",
+      "reviews": 44,
+      "price": 5000,
+      "discount": 350,
+      "inStock": true,
+      "rate": 4,
+      "sizes": [20, 40],
+      "videoLink": "https://www.youtube.com",
+      "products": [
+        {
+          "price": 2429,
+          "discount": 350,
+          "color": "#C84A1E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png",
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png"
+          ],
+          "alt": "brown sofa",
+          "label": "sale"
+        },
+        {
+          "price": 2529,
+          "discount": 350,
+          "color": "#FFE83E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage2.png"
+          ],
+          "alt": "yellow sofa",
+          "label": "new"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "title": "Veggie Wax Candle Table",
+      "titleUkr": "Свічка з бджолиного воску",
+      "reviews": 44,
+      "price": 5000,
+      "discount": 350,
+      "inStock": true,
+      "rate": 4,
+      "sizes": [20, 40],
+      "videoLink": "https://www.youtube.com",
+      "products": [
+        {
+          "price": 2429,
+          "discount": 350,
+          "color": "#C84A1E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png",
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png"
+          ],
+          "alt": "brown sofa",
+          "label": "sale"
+        },
+        {
+          "price": 2529,
+          "discount": 350,
+          "color": "#FFE83E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage2.png"
+          ],
+          "alt": "yellow sofa",
+          "label": "popular"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "Veggie Wax Candle No disc",
+      "titleUkr": "Свічка з бджолиного воску",
+      "reviews": 44,
+      "price": 4000,
+      "inStock": true,
+      "rate": 4,
+      "sizes": [20, 40],
+      "videoLink": "https://www.youtube.com",
+      "products": [
+        {
+          "price": 2429,
+          "discount": 350,
+          "color": "#C84A1E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png",
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage1.png"
+          ],
+          "alt": "brown sofa",
+          "label": "sale"
+        },
+        {
+          "price": 2529,
+          "discount": 350,
+          "color": "#FFE83E",
+          "images": [
+            "https://vprindyn-templates.s3.eu-central-1.amazonaws.com/mock-data-photos/productImage2.png"
+          ],
+          "alt": "yellow sofa",
+          "label": "new"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
